@@ -10,6 +10,9 @@ This project aims to compare the performance and usability of virtual threads in
 - **Build:** Maven
 - **Frameworks:**
     - Spring Boot 3.2.5
+
+## Review
+This example demonstrates how virtual threads in Java 21 are 90% faster than the thread pool when using 2,000 threads. When the thread pool uses more than 2,000 threads, errors occur because my Mac does not support that much memory. In contrast, virtual threads do not require specifying a number of threads; they are managed automatically.
  
 ## Contributions
 
