@@ -16,6 +16,9 @@ This example demonstrates how virtual threads in Java 21 are 90% faster than the
 
 ![comparasion](comparasion.png)
  
+## Read More
+https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA
+
 ## Contributions
 
 Contributions are welcome! Open issues, propose new features, or send pull requests to improve the system.
